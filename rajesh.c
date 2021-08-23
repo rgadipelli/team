@@ -1,8 +1,8 @@
 #include<stdio.h>
 main()
 {
-  printf("hi, my name is rajesh");
-  printf("i am creating a branch");
+  printf("hi,welcome");
+  printf("i am adding two numbers");
   int a,b,c;
   scanf("%d %d",&a,&b);
   c=a+b;
