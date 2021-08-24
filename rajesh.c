@@ -8,6 +8,6 @@ main()
   c=a+b;
   printf("%d",c);
   int hi;
-  int hello;
+  int hefwdfllo;
 
 }
